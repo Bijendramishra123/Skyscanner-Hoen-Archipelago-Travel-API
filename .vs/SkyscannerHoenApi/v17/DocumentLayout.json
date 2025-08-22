@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\datafiles\\rentalcars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:datafiles\\rentalcars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\datafiles\\hotels.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:datafiles\\hotels.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\models\\rentalcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:models\\rentalcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\data\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:data\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|c:\\users\\l\\source\\repos\\skyscannerhoenapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CE1961-B3F9-4013-8D4E-B80FC8FDB17F}|SkyscannerHoenApi.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hotels.json",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\DataFiles\\hotels.json",
+              "RelativeDocumentMoniker": "DataFiles\\hotels.json",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\DataFiles\\hotels.json",
+              "RelativeToolTip": "DataFiles\\hotels.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T16:55:00.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rentalcars.json",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\DataFiles\\rentalcars.json",
+              "RelativeDocumentMoniker": "DataFiles\\rentalcars.json",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\DataFiles\\rentalcars.json",
+              "RelativeToolTip": "DataFiles\\rentalcars.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T16:54:10.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalCar.cs",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Models\\RentalCar.cs",
+              "RelativeDocumentMoniker": "Models\\RentalCar.cs",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Models\\RentalCar.cs",
+              "RelativeToolTip": "Models\\RentalCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:44:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:42:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:41:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Data\\DataService.cs",
+              "RelativeDocumentMoniker": "Data\\DataService.cs",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Data\\DataService.cs",
+              "RelativeToolTip": "Data\\DataService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:41:10.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\L\\source\\repos\\SkyscannerHoenApi\\Models\\Hotel.cs",
+              "RelativeToolTip": "Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:40:35.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

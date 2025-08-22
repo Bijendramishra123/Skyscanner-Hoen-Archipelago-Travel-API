@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FJDTeBnTa8G6tsewAOMLghNplLmVHBFxdnPu4ReGBTQ=",
+  "Source": "SkyscannerHoenApi",
+  "BasePath": "_content/SkyscannerHoenApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
